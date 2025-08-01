@@ -1,7 +1,10 @@
 <h1 align="center">Online Product Store</h1>
-DEMO VIDEO LINK:
-ScreenShorts:
+<b>DEMO VIDEO LINK:</b>
+<br>
+<b>ScreenShorts:</b>
+<br>
 -HomePage:
+<br>
 i)Dark Mode
 <img width="1101" height="752" alt="Screenshot 2025-08-01 202351" src="https://github.com/user-attachments/assets/89fba5e4-5544-4fb5-8a21-1d77c3140331" />
 
