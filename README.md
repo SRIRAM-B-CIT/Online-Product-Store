@@ -19,6 +19,6 @@ ii)Light Mode
 <img width="1095" height="662" alt="Screenshot 2025-08-01 202211" src="https://github.com/user-attachments/assets/26224019-5acc-4b59-81b2-93e734d4e056" />
 
 
-⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
+<b>⚛️ Tech Stack: MongoDB , Express.js , React.js, Node.js (MERN) </b>
 
 
